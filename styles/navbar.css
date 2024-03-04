@@ -1,0 +1,49 @@
+.menu__navegação {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2em;
+}
+
+.lista__menu {
+    display: flex;  
+    margin-left: auto;
+}
+
+.lista__menu__item {
+    padding: 0 1em;
+    display: flex;
+}
+
+.lista-menu__link {
+    text-decoration: none;
+    color: var(--fonte-cinza);
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.menu__botão{
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+}
+
+.menu__botão__entrar {
+    background-color: transparent;
+    color: var(--fonte-cinza);
+    padding: 0.7em;
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.menu__botão__cadastrar {
+    background-color:var(--fonte-marrom);
+    color: var(--cor-de-fundo);
+    padding: 0.7em;
+    border-radius: 8px;
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}

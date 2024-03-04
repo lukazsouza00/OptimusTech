@@ -1,0 +1,37 @@
+
+.container {
+    display: grid;
+    place-items: center;
+    text-align: center;
+}
+
+
+.cabeçalho {
+    width: 60%;
+}
+
+
+.titulo {
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    color: var(--fonte-marrom);
+    margin: 1.5em;
+}
+
+.sub__titulo {
+    font-family: "Inter", sans-serif;
+    font-size: 48px;
+    font-weight: 600;
+    color: var(--fonte-preta);
+    margin: 0 0 1.5em 0;
+    
+}
+
+.texto__sub__titulo {
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    color: var(--fonte-cinza);
+    margin: 0 0 6em 0;
+}

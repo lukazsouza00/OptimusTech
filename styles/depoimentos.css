@@ -1,0 +1,43 @@
+.depoimentos{
+    background-color: #faf5f5;
+    margin: 0 auto;
+    text-align: center;
+    width: 90%;
+}
+
+
+.depoimentos__titulo{
+    font-family: "Inter", sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--fonte-marrom);
+    margin: 4em 0 1em 0;
+}
+
+.depoimentos__subtitulo{
+    font-family: "Inter", sans-serif;
+    font-size: 36px;
+    font-weight: 500;
+    color: var(--fonte-preta);
+    margin-bottom: 2em;
+}
+
+.img__avatar {
+    margin-bottom: 1em;
+}
+
+.nome__avatar {
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--fonte-preta);
+    margin-bottom: 1em;
+}
+
+.cargo {
+    font-family: "Inter", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--fonte-cinza);
+    margin: 0 0 4em 0;
+}
